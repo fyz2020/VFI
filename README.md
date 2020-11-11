@@ -1,9 +1,9 @@
 ## Všeobecna fyzika 1.
-
+Všeobecna fyzika:
 
 
 ### Tabule
-
+Tabule:
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
